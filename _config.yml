@@ -1,0 +1,28 @@
+name: The Swanky Ninja
+favicon: null
+layout_spectrum: 0.5122124634217471
+typography_spectrum: 0.13444941421039402
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.18770718900486827
+  lightness: 0.23850641935132444
+  saturation: 0.11420771921984851
+  rhythmicContrast: 0.03351453342474997
+purpose: []
